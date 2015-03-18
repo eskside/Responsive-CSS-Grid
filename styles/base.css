@@ -1,0 +1,38 @@
+html {
+	min-width: 20em;
+	padding: 0;
+	margin: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	overflow-y: scroll;
+	font-size: 16px;
+	color: #54575d;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	text-rendering: optimizeLegibility
+}
+body {
+	min-height: 100%;
+	font-family: Georgia, serif
+}
+
+
+
+
+
+*, 
+:after, 
+:before {
+	-webkit-box-sizing: inherit;
+	-moz-box-sizing: inherit;
+	box-sizing: inherit
+}
+.clearfix {
+	clear: both
+}
+.clearfix:after {
+	clear: both;
+	content: '';
+	display: table
+}

@@ -19,39 +19,39 @@
 	margin: 0 0 0 1.5%
 }
 .col-1 {
-	width: 100%
+	width: 6.958333%
 }
 .col-2 {
-	width: 49.25%
-}
-.col-3 {
-	width: 32.333333%
-}
-.col-4 {
-	width: 23.875%
-}
-.col-5 {
-	width: 18.8%
-}
-.col-6 {
 	width: 15.416666%
 }
+.col-3 {
+	width: 23.874999%
+}
+.col-4 {
+	width: 32.333332%
+}
+.col-5 {
+	width: 40.791665%
+}
+.col-6 {
+	width: 49.25%
+}
 .col-7 {
-	width: 13%
+	width: 57.708335%
 }
 .col-8 {
-	width: 11.1875%
+	width: 66.166668%
 }
 .col-9 {
-	width: 9.777777%
+	width: 74.625001%
 }
 .col-10 {
-	width: 8.65%
+	width: 83.083334%
 }
 .col-11 {
-	width: 7.727272%
+	width: 91.541667%
 }
 .col-12 {
-	width: 6.958333%
+	width: 100%
 }
 }
